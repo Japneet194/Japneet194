@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Your+Banner+Here)
+![banner](https://private-user-images.githubusercontent.com/138129178/383277815-60a20d27-52af-4abb-88ba-d9b9e0477629.gif)
 
 ## About Me
 
