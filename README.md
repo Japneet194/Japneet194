@@ -4,15 +4,9 @@
 
 ## About Me
 
-Hi, I'm [Your Name] 👨‍💻. I'm a [Your Profession/Role] with a passion for [Your Interests]. I love working on projects that involve [Technologies/Fields of Interest].
+Hi, I'm Japneet 👨‍💻. I'm an engineer with a passion for coding. I love working on projects that involve critical thinking, logical reasoning and decision making tasks.
 
-- 🔭 I'm currently working on [Current Project]
-- 🌱 I'm currently learning [Current Learning]
-- 👯 I'm looking to collaborate on [Collaboration Interests]
-- 🤔 I'm looking for help with [Help Needed]
-- 💬 Ask me about [Topics]
-- 📫 How to reach me: [Your Email/LinkedIn]
-- ⚡ Fun fact: [Fun Fact]
+
 
 <h2 align="center"> ⚒️ Languages and Tools ⚒️</h2>
 
